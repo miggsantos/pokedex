@@ -13,6 +13,7 @@
 		936BC8401BCB3C71004A4F40 /* pokedex.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 936BC83E1BCB3C71004A4F40 /* pokedex.xcdatamodeld */; };
 		936BC8421BCB3C71004A4F40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 936BC8411BCB3C71004A4F40 /* Assets.xcassets */; };
 		936BC8451BCB3C71004A4F40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 936BC8431BCB3C71004A4F40 /* LaunchScreen.storyboard */; };
+		936BC84D1BCC839C004A4F40 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 936BC84C1BCC839C004A4F40 /* pokemon.csv */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		936BC8411BCB3C71004A4F40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		936BC8441BCB3C71004A4F40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		936BC8461BCB3C71004A4F40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		936BC84C1BCC839C004A4F40 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				936BC8371BCB3C71004A4F40 /* AppDelegate.swift */,
 				936BC8391BCB3C71004A4F40 /* ViewController.swift */,
 				936BC83B1BCB3C71004A4F40 /* Main.storyboard */,
+				936BC84C1BCC839C004A4F40 /* pokemon.csv */,
 				936BC8411BCB3C71004A4F40 /* Assets.xcassets */,
 				936BC8431BCB3C71004A4F40 /* LaunchScreen.storyboard */,
 				936BC8461BCB3C71004A4F40 /* Info.plist */,
@@ -127,6 +130,7 @@
 			files = (
 				936BC8451BCB3C71004A4F40 /* LaunchScreen.storyboard in Resources */,
 				936BC8421BCB3C71004A4F40 /* Assets.xcassets in Resources */,
+				936BC84D1BCC839C004A4F40 /* pokemon.csv in Resources */,
 				936BC83D1BCB3C71004A4F40 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,6 +292,7 @@
 				936BC84B1BCB3C71004A4F40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
