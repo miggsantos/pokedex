@@ -443,11 +443,11 @@
                         <outlet property="defenseLbl" destination="uhZ-dP-0lZ" id="7k6-pI-MgQ"/>
                         <outlet property="descriptionLbl" destination="vPI-qC-ACV" id="R6x-ce-rRV"/>
                         <outlet property="evoLbl" destination="XcS-3V-K9J" id="oSh-6O-udN"/>
-                        <outlet property="heightLbl" destination="44P-ET-Y7P" id="5oV-Ud-gAe"/>
+                        <outlet property="heightLbl" destination="2L5-Qx-DkL" id="fxI-C0-AoY"/>
                         <outlet property="mainImage" destination="LSZ-tx-aE9" id="NUp-dv-H37"/>
                         <outlet property="nameLbl" destination="dft-Vg-Aoj" id="WIM-Ks-D7H"/>
                         <outlet property="nextEvoImg" destination="g3O-Kh-WFP" id="Wbs-Rg-t0g"/>
-                        <outlet property="pokedexIdLbl" destination="5bd-1M-PBh" id="rkC-KH-6R4"/>
+                        <outlet property="pokedexIdLbl" destination="kWN-jn-ldc" id="UmE-ZJ-G07"/>
                         <outlet property="typeLbl" destination="UOB-X0-YtL" id="pGv-ct-Whv"/>
                         <outlet property="weightLbl" destination="1Gi-Ot-Mof" id="3vk-0u-K9C"/>
                     </connections>
